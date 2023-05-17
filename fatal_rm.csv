@@ -1,0 +1,13 @@
+race,signs_of_mental_illness,count,fatal_percent_of_ill_by_race[%]
+A,False,69,1.64
+A,True,24,1.97
+B,False,1114,26.52
+B,True,184,15.13
+H,False,745,17.74
+H,True,157,12.91
+N,False,64,1.52
+N,True,14,1.15
+O,False,37,0.88
+O,True,11,0.9
+W,False,1763,41.98
+W,True,713,58.63
